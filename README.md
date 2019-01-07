@@ -1,1 +1,2 @@
-# hello-world
+I am Vijayakumar Muni, working as an Assistant Professor since 22 Aug 2017 in the Department of Mathematics at Shri H.D.Devegowda Govt. First Grade College, situated at Paduvalahippe, in the city called Hassan, India. Prior to joining this profession, I was doing my full-time research at the Department of Mathematics, Indian Institute of Space Science and Technology, Thiruvananthapuram. Currently I have submitted my Ph.D. thesis entitled "Studies on controllability of dynamical systems with impulses and time-delay controls" for the evaluation and waiting for the final report. 
+Along with my teaching, currently I am focusing on the research on controllability of networked systems, mostly through graph-theoretic approach.
